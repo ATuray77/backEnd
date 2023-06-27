@@ -35,12 +35,20 @@
       "Style": "Praise",
       "Lyrics": "Halle Hale, Oh Halla, Halle Halle, Halleluia"
     },
+     {
+      "id": 6,
+      "Title": "I have more than a song",
+      "Artist": "Dunsin Onyekan",
+      "Style": "Worship",
+      "Lyrics": "I have more than a song, today, I brought myself, I am your sacrifice. I am more than a song, today, I brought myself, I am your worship" 
+    },
     {
-      "Title": "Glory",
-      "Artist": "John",
-      "Style": "praise",
-      "Lyrics": "Glory to God",
-      "id": 6
+      "id": 7,
+      "Title": "Kadosh",
+      "Artist": "Joe Mettle",
+      "Style": "Worship",
+      "Lyrics": "You reign, you ancient Zion's king.\nKadosh, You are mighty on your throne"
+      
     }
   ]
 }
